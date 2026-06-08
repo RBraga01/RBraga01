@@ -21,6 +21,19 @@ One folder. Zero configuration. Works with Claude Code, Codex CLI, Cursor, and O
 
 ---
 
+## Also building
+
+**TIO** — a personal assistant that runs locally. Trying to keep data off the cloud where I can.
+
+**KidOs** — an Android app for young kids. Every session ends with an offline activity.  
+No internet, no gamification, no streaks.
+
+**Cody** — a small tool to help with ICD-10 clinical coding.
+
+*Personal projects. Work in progress.*
+
+---
+
 ## Stack
 
 Python · FastAPI · Anthropic API  
