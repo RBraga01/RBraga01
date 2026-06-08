@@ -1,27 +1,32 @@
 # R. Braga
 
-15 years in industrial quality. Learning to build software.
+15 years in industrial quality engineering. Building AI infrastructure on the side.
 
 ---
 
-## Things I'm working on
+## What I ship
 
-**TIO** — a personal assistant that runs locally. Trying to keep data off the cloud where I can.
+**[A Team](https://github.com/RBraga01/a-team)** — Multi-agent infrastructure for AI coding assistants.  
+25 specialist agents, 18 enforced workflow skills, a lead orchestrator, and a Pipeline Auditor  
+that checks work was actually done — not just reported.  
+One folder. Zero configuration. Works with Claude Code, Codex CLI, Cursor, and OpenCode.
 
-**KidOs** — an Android app for young kids that always ends the session with an offline activity. No internet, no gamification, no streaks.
+**builder.*** — Domain packs that extend A Team into specific areas:
+- **[builder-ai](https://github.com/RBraga01/builder-ai)** — Evals, RAG quality, prompt versioning, safety gates
+- **[builder-design](https://github.com/RBraga01/builder-design)** — AI UI states, streaming, accessibility, design tokens
+- **[builder-product](https://github.com/RBraga01/builder-product)** — PRD quality, metrics, research synthesis
+- **[builder-growth](https://github.com/RBraga01/builder-growth)** — Positioning, copy, experiment discipline
 
-**Cody** — a small tool to help with ICD-10 clinical coding.
-
-**A Team** — a multi-agent setup for AI coding assistants. Still figuring out what works.
-
----
-
-## What I use
-
-Python · FastAPI · Anthropic API · ChromaDB  
-Kotlin · Jetpack Compose  
-Tauri · Claude Code
+**Quality-Engineering-Skills** *(pre-launch)* — Open-source skills framework for quality engineers working with AI.
 
 ---
 
-*Work in progress. Most of this is me learning as I go.*
+## Stack
+
+Python · FastAPI · Anthropic API  
+React · TypeScript · PostgreSQL  
+Claude Code · and more
+
+---
+
+*Questions or issues → open one in the relevant repo.*
