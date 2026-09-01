@@ -17,7 +17,7 @@ One folder. Zero configuration. Works with Claude Code, Codex CLI, Cursor, and O
 - **[builder-product](https://github.com/RBraga01/builder-product)** — PRD quality, metrics, research synthesis
 - **[builder-growth](https://github.com/RBraga01/builder-growth)** — Positioning, copy, experiment discipline
 
-**Quality-Engineering-Skills** — Open-source skills framework for quality engineers working with AI.
+**[Quality-Engineering-Skills](https://github.com/RBraga01/Quality-Engineering-Skills)** — Open-source skills framework for quality engineers working with AI.
 
 ---
 
